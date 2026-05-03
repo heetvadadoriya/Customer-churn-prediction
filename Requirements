@@ -1,0 +1,12 @@
+
+---
+
+# 📦 4) requirements.txt
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
